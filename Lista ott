@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,ULTI
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARP" tvg-id="canal.brasil.br",ULTI
 https://dhruvmirrorpremiumftl1-5d43c8a764e8.herokuapp.com/169677/Lanterns.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264.DUAL-BiOMA.mp4?hash=AgADoA
